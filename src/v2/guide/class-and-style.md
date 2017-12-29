@@ -149,7 +149,7 @@ Quando `isActive` for verdadeiro, o HTML resultante será:
 <p class="foo bar active">Oi</p>
 ```
 
-## Vinculando em Estilos Inline
+## Interligando Estilos Inline
 
 ### Sintaxe de Objeto
 
