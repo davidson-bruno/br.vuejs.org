@@ -93,7 +93,7 @@ new Vue({
 </script>
 {% endraw %}
 
-Quando você atualiza o número, a mudança é animada abaixo do _input_. Isso produz uma demonstração agradável, mas o que acontece com o que não é diretamente gravado como um número, como qualquer cor CSS válida por exemplo? Veja como podemos conseguir isso com a adição de [Color.js](https://github.com/brehaut/color-js):
+Quando você atualiza o número, a mudança é animada abaixo do _input_. Isto produz uma demonstração agradável, mas o que acontece com o que não é diretamente gravado como um número, como qualquer cor CSS válida por exemplo? Veja como podemos conseguir isso com a adição de [Color.js](https://github.com/brehaut/color-js):
 
 ``` html
 <script src="https://cdn.jsdelivr.net/npm/tween.js@16.3.4"></script>
