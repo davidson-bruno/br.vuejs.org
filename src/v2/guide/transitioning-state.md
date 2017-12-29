@@ -409,7 +409,7 @@ Gerenciar muitas transições de estado pode aumentar rapidamente a complexidade
 
 ``` js
 // Esta lógica tweening complexa agora pode ser reusada por
-// alguns inteiros que nós desejemos animar em nossa aplicação.
+// quaisquer inteiros que desejemos animar em nossa aplicação.
 // Componentes também oferecem uma interface clara para configurar
 // transições mais dinâmicas e estratégias de transição mais
 // complexas.
